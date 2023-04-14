@@ -1,3 +1,10 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+    h1, h2, h3, h4, h5, h6, p, a{
+      font-family: 'Montserrat', sans-serif;
+    }
+</style>
+
 <h1 align="center">Hi 👋, I'm Yash Sahane</h1>
 <h3 align="center">B.Tech (CSE) Student | Full Stack Developer Enthusiast | Passionate about Web Development | Committed to Building Dynamic Web Applications | Expertise in Multiple Programming Languages and Frameworks | Eager to Learn, Grow, and Contribute to Innovative Projects</h3>
 
