@@ -1,10 +1,13 @@
-<style>
+<head>
+  <style>
     @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-    h1, h2, h3, h4, h5, h6, p, a{
+    h1, h2, h3, p {
       font-family: 'Montserrat', sans-serif;
     }
-</style>
+  </style>
+</head>
 
+<body>
 <h1 align="center">Hi 👋, I'm Yash Sahane</h1>
 <h3 align="center">B.Tech (CSE) Student | Full Stack Developer Enthusiast | Passionate about Web Development | Committed to Building Dynamic Web Applications | Expertise in Multiple Programming Languages and Frameworks | Eager to Learn, Grow, and Contribute to Innovative Projects</h3>
 
@@ -36,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sahane&show_icons=true&locale=en" alt="yash-sahane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-sahane&" alt="yash-sahane" /></p>
+</body>
