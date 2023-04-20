@@ -44,5 +44,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sahane&show_icons=true&locale=en" alt="yash-sahane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-sahane&" alt="yash-sahane" /></p>**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-sahane&" alt="yash-sahane" /></p>
 </body>
