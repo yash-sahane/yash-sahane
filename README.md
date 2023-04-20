@@ -49,9 +49,8 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-sahane&show_icons=true&locale=en&layout=compact" alt="yash-sahane" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sahane&show_icons=true&locale=en" alt="yash-sahane" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-sahane&" alt="yash-sahane" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yash-sahane&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yash-sahane&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-sahane&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </body>
